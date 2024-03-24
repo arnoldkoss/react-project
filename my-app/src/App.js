@@ -1,11 +1,11 @@
 import './App.css';
-import UseStateWithObjects from './components/UseStateWithObjects';
+import HTTPRequests from './components/HTTPRequests';
 
 
 function App() {
   return (
     <div className="App">
-      <UseStateWithObjects />
+      <HTTPRequests />
     </div>
   );
 }
